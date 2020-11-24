@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         System.out.println("登陆功能。。。");
+        System.out.println("登陆功能。。。");
     }
 }
